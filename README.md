@@ -56,4 +56,4 @@ DELETE
 # Screenshot
 <a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots"></a>
 
-<a href="https://github.com/BonyManjarawala/Product-Management-APIs/tree/main/ProductManagementAPIS(Express)/Postman"> Click Here</a>
+<a href="https://github.com/SHREYUGANDHI/Product-Management-APIs-using-Express-Router./tree/main/Postman"> Click Here</a>
